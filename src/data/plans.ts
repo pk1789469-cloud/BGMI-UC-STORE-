@@ -1,6 +1,6 @@
 import { MerchantSettings, UcPlan } from '../types/store';
 
-export const USER_UC_IMAGE = '/assets/aistudio/UC_8476f62f.jpeg';
+export const USER_UC_IMAGE = `${import.meta.env.BASE_URL}assets/aistudio/UC_8476f62f.jpeg`;
 export const HERO_BANNER_IMAGE = USER_UC_IMAGE;
 export const UC_STANDARD_IMAGE = USER_UC_IMAGE;
 export const UC_CRATE_IMAGE = USER_UC_IMAGE;
