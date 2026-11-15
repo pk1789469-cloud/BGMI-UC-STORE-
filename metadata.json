@@ -1,0 +1,6 @@
+{
+  "name": "BattleDrop UC Store",
+  "description": "Instant BGMI Unknown Cash (UC) top-up store with UID verification, custom UPI QR code payments, PhonePe and Navi UPI auto-pay, and live 5-minute delivery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
